@@ -1,2 +1,2 @@
-# Mock App
+# App
 Generated locally without API.
